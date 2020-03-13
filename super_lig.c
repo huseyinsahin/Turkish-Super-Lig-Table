@@ -1,6 +1,7 @@
 /*
 #Ad-Soyad = Huseyin Sahin
 #E-posta = huseyin.sahin@ceng.ktu.edu.tr
+#Proje = Turkish Super Lig Table
 */
 
 #include <stdio.h>
