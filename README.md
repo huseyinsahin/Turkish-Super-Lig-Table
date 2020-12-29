@@ -36,4 +36,4 @@ Bu projede Türkiye Süper Lig takımlarının maç sonuçlarını klavyeden yad
 ## Projeyi Çalıştırma / Running the Project
 <pre>gcc turkish_super_lig.c -o turkish_super_lig
 ./turkish_super_lig
-![Alt Text](https://github.com/huseyinsahin/Turkish-Super-Lig-Table/blob/master/running_the_project.gif)
+![Alt Text]https://github.com/huseyinsahin/Turkish-Super-Lig-Table/blob/master/running_the_project.gif
