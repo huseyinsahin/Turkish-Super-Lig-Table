@@ -34,5 +34,5 @@ Bu projede Türkiye Süper Lig takımlarının maç sonuçlarını klavyeden yad
 | maclar1.txt  | A 2 B 2 <br> A 3 C 3 <br> A 3 D 3 <br> B 0 C 0 | Maç sonuçları / Match results |
 
 ## Projeyi Çalıştırma / Running the Project
-<pre>gcc super_lig.c -o super_lig
-./super_lig
+<pre>gcc turkish_super_lig.c -o turkish_super_lig
+./turkish_super_lig
